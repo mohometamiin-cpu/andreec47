@@ -1,4 +1,4 @@
-# Fake Tiktok coin page [PC]
+mohometamiin Fake Tiktok coin page [PC]
 
 ## Static page HTML CSS of tiktok coin store
 Static page of the TikTok corner store French version [€]. You can grab the style to make your own online store. 
